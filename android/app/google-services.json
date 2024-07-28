@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274695164037",
+    "project_id": "bilal-store-237cd",
+    "storage_bucket": "bilal-store-237cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274695164037:android:186de9d8f1281a4b9e59ec",
+        "android_client_info": {
+          "package_name": "com.bilal_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEQLNBAogRiXqtAUaIRHkWmPN0BbISnYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
