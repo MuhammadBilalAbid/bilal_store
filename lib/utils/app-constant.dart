@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class AppConstants {
+class AppConstant {
   static String appMainName = "bilal store";
   static String appPoweredBy = 'Powered By Techi4u';
   static const appMainColor = Color(0xFFbf1b08);
