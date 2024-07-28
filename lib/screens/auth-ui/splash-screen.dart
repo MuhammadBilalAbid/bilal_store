@@ -1,7 +1,6 @@
 import 'dart:async';
 
 import 'package:bilal_store/screens/auth-ui/welcome-screen.dart';
-import 'package:bilal_store/screens/user-panels/main-screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';

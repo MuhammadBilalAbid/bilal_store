@@ -1,3 +1,4 @@
+import 'package:bilal_store/screens/auth-ui/sign-in-screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:lottie/lottie.dart';
@@ -75,7 +76,9 @@ class WelcomeScreen extends StatelessWidget {
                 "Sign in with email",
                 style: TextStyle(color: AppConstant.appTextColor),
               ),
-              onPressed: () {},
+              onPressed: () {
+                Get.offAll(() => const SignInScreen());
+              },
             ),
           )
         ],
